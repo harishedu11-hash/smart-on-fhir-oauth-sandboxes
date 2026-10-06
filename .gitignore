@@ -1,0 +1,10 @@
+# Environment & Secret files
+.env
+*.json
+token_response.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
